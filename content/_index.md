@@ -1,7 +1,7 @@
 ---
 title: "Chakradhar Gorthi"
 date: 2022-09-29T10:44:45+05:30
-draft: true
+draft: false
 tagline: Devops Engineer. 
 ---
 
