@@ -12,18 +12,16 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Your Name"
+copyright = "&copy;2022 Chakradhar Gorthi"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  author = "Chakradhar Gorthi"
+  description = "A personal portfolio website created and maintained by Chakradhar Gorthi"
 
   # Favicon
-  favicon = "favicon.ico"
+  favicon = "operations.png"
 
   # Section - Visual
   [params.visual]
@@ -51,7 +49,7 @@ copyright = "&copy;2021 Your Name"
       [[params.links.list1.link]]
         text = "Blog"
         url = "#"
-        new_tab = true # new tab
+        new_tab = false # new tab
 
       [[params.links.list1.link]]
         text = "Email"
@@ -67,6 +65,13 @@ copyright = "&copy;2021 Your Name"
         text = "Instagram"
         url = "https://www.instagram.com/chakradhargorthi"
         new_tab = true
+
+
+      [[params.links.list2.link]]
+        text = "Linkedin"
+        url = "https://www.linkedin.com/in/gcdr/"
+        new_tab = true
+
 
   # Links List #3
   [[params.links]]
